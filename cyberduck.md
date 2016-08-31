@@ -32,8 +32,8 @@ Yhteyden avauduttua avautuu tiedostonäkymä kohteen hakemistoon /home/a123456 (
 - Navigoi webapps -hakemistoon ja raahaa aikaisemmin Eclipsessä Export-toiminnolla tekemäsi WAR-tiedosto ikkunaan, jolloin tiedonsiirto käynnistyy automaattisesti.
 #
 Kun tiedosto on siirtynyt, tulee vielä näkyviin ikkuna, jossa näkyvät tiedonsiirron yksityiskohdat.
-#
+
 ![kuva5](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-7.png)
-#
+
 Huomaa myös hhprotojulkaisu -ohjeen noudatettavat käytännöt:
 "Tarkastele sovellustasi selaimen kautta miltä tahansa koulun koneelta. Vaihda proton numeron kohdalle kurssinne proton numero. Tuotos näkyy vain koulun verkossa. Laita projektin nimeksi sama kuin Eclipsessä on projektinne nimi."
