@@ -8,11 +8,11 @@ Tämä on ohje Mac-käyttäjille jotka haluavat julkaista protojaan Haaga-Helian
 Ladataan Cyberduck ja viedään latautunut sovellus Applications -hakemistoon.
 Käynnistetään sovellus. Aloitusnäkymä näyttää tältä:
 #
-![kuva1](https://raw.githubusercontent.com/jusju/hhprotojulkaisu/master/kuvat/screen-capture-3.png)
+![kuva1](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-3.png)
 #
 Valikosta File valitaan "Open connection..." jolloin sovellusikkunan eteen ilmestyy avattavan yhteyden asetukseien ikkuna. Kuvassa ei ole vielä tarvittavia asetuksia:
 #
-![kuva2](https://raw.githubusercontent.com/jusju/hhprotojulkaisu/master/kuvat/screen-capture-4.png)
+![kuva2](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-4.png)
 #
 - Valitaan pudotusvalikosta yhteyden protokollaksi "SFTP (SSH File Transfer Protocol)".
 - Kenttään "Server:" kirjoitetaan halutun protopalvelimen osoite (nimi vaihtelee kursseittain, joten tarkastakaa se opettajalta). Ohjeessa käytetään osoitetta "proto383.haaga-helia.fi".
@@ -21,19 +21,19 @@ Valikosta File valitaan "Open connection..." jolloin sovellusikkunan eteen ilmes
 - Ohjeen kuvassa on jätetty täppä päälle kohtaan "Add to Keychain", mikä vähentää naputtelua mutta ei ole välttämätön toiminnan kannalta.
 - Naksautetaan painiketta "Connect" 
 #
-![kuva3](https://raw.githubusercontent.com/jusju/hhprotojulkaisu/master/kuvat/screen-capture-5.png)
+![kuva3](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-5.png)
 #
 Yhteyden avauduttua avautuu tiedostonäkymä kohteen hakemistoon /home/a123456 (tunnusriippuvainen hakemistonimi), missä tulee navigoida hakemistoon "/var/lib/tomcat8/webapps": 
 #
-![kuva4](https://raw.githubusercontent.com/jusju/hhprotojulkaisu/master/kuvat/screen-capture-6.png)
-#
 - Valitse keskellä näkyvästä palkista hakemistoksi "/" jolloin saat näkymään yläkansion sisällön.
-
+#
+![kuva4](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-6.png)
+#
 - Navigoi webapps -hakemistoon ja raahaa aikaisemmin Eclipsessä Export-toiminnolla tekemäsi WAR-tiedosto ikkunaan, jolloin tiedonsiirto käynnistyy automaattisesti.
 #
 Kun tiedosto on siirtynyt, tulee vielä näkyviin ikkuna, jossa näkyvät tiedonsiirron yksityiskohdat.
 #
-![kuva5](https://raw.githubusercontent.com/jusju/hhprotojulkaisu/master/kuvat/screen-capture-7.png)
+![kuva5](https://github.com/tpolvinen/hhprotojulkaisu/blob/master/kuvat/screen-capture-7.png)
 #
 Huomaa myös hhprotojulkaisu -ohjeen noudatettavat käytännöt:
 "Tarkastele sovellustasi selaimen kautta miltä tahansa koulun koneelta. Vaihda proton numeron kohdalle kurssinne proton numero. Tuotos näkyy vain koulun verkossa. Laita projektin nimeksi sama kuin Eclipsessä on projektinne nimi."
