@@ -2,7 +2,7 @@
 
 Tämä on ohje Mac-käyttäjille jotka haluavat julkaista protojaan Haaga-Helian proto-palvelimille. Ohjeessa käytetään Cyberduck-sovellusta WinSCP:n korvikkeena ja muokataan Cyberduckin yhteysasetukset kurssilla jaetun hhprotojulkaisu -ohjeen mukaan. 
 
-Ohjeen linkki (GitHub) https://github.com/jusju/hhprotojulkaisu/blob/master/README.md
+Alkuperäisen ohjeen linkki (GitHub) https://github.com/jusju/hhprotojulkaisu/blob/master/README.md
 
 
 Ladataan Cyberduck ja viedään latautunut sovellus Applications -hakemistoon.
